@@ -1,0 +1,15 @@
+- name: 应用
+  icon: fas fa-download
+  url: /app/
+
+- name: 文章
+  icon: fas fa-rss
+  url: /article/
+
+- name: 留言
+  icon: fas fa-comments
+  url: /about/
+
+- name: 收录
+  icon: fas fa-upload
+  url: /record/

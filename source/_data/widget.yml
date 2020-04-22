@@ -1,0 +1,18 @@
+news:
+  class: list
+  display: [desktop, mobile] # [desktop, mobile]
+  header:
+    icon: fas fa-exclamation-triangle
+    title: 近期公告
+  rows:
+    - name:
+      icon:
+      url:
+
+
+docs-index:
+  class: group
+  display: [desktop, mobile] # [desktop, mobile]
+  header:
+    icon: fas fa-list-alt
+    title: 文档索引
