@@ -4,7 +4,7 @@ meta:
   footer: []
 ---
 
-由于开源软件下载资源一般都在 GitHub Releases 页面，下载速度极慢，本站为此提供便利，将下载好的软件放在仓库中，通过 jsdelivr 提供的 CDN 进行下载。
+由于开源软件下载资源一般都在 GitHub Releases 页面，下载速度极慢，本站为此提供便利，~将下载好的软件放在仓库中，通过 jsdelivr 提供的 CDN 进行下载~。
 
 {% p subtitle, 本站职责范围 %}
 {% checkbox checked, 收录 Mac 开源或免费软件 %}
